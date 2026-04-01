@@ -1,0 +1,9 @@
+{
+  "name": "github-pr-create",
+  "version": "1.0.0",
+  "description": "Automatically creates a GitHub or GitLab Pull Request with a smart, auto-formatted semantic title derived from the branch name and PR content.",
+  "author": {
+    "name": "Md Eftakhairul Islam",
+    "email": "eftakhairul@gmail.com"
+  }
+}

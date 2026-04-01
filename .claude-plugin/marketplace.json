@@ -1,0 +1,16 @@
+{  
+  "name": "eftakhairul-claude-plugins",
+  "description": "A collection of custom Claude plugins for automating common development workflows.",
+  "owner": {
+    "name": "Md Eftakhairul Islam",
+    "email": "eftakhairul@gmail.com"
+  },  
+  "plugins": [
+    {
+      "name": "github-pr-create",
+      "description": "Automatically creates a GitHub or GitLab Pull Request with a smart, auto-formatted semantic title derived from the branch name and PR content.",
+      "source": "./plugins/github-pr-create",
+      "category": "development"
+    }
+  ]
+}
